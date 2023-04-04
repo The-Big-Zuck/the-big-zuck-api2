@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "The-Big-Zuck.Domain/1.0.0": {
+        "runtime": {
+          "The-Big-Zuck.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "The-Big-Zuck.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

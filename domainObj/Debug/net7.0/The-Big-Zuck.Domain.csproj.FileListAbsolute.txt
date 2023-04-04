@@ -1,0 +1,12 @@
+/Users/spurlock.162/The-Big-Zuck.Domain/bin/Debug/net7.0/The-Big-Zuck.Domain.deps.json
+/Users/spurlock.162/The-Big-Zuck.Domain/bin/Debug/net7.0/The-Big-Zuck.Domain.dll
+/Users/spurlock.162/The-Big-Zuck.Domain/bin/Debug/net7.0/The-Big-Zuck.Domain.pdb
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.csproj.AssemblyReference.cache
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.AssemblyInfoInputs.cache
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.AssemblyInfo.cs
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.csproj.CoreCompileInputs.cache
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.dll
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/refint/The-Big-Zuck.Domain.dll
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/The-Big-Zuck.Domain.pdb
+/Users/spurlock.162/The-Big-Zuck.Domain/obj/Debug/net7.0/ref/The-Big-Zuck.Domain.dll
