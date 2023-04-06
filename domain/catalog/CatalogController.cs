@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using The.Big.Zuck.Domain.Catalog;
 
 
-HttpGet("{id:int}")]
+HttpGet("{id:int}")
 
 
 
@@ -36,6 +36,10 @@ namespace The.Big.Zuck.Api.Controllers
 
             return Ok(item);
         }
+        [HttpDelete("{id:int}")]
+        public IActionResult Delete(int id)
+        {
+            return NoContent();
+        }
     }
-    
-}
+   
